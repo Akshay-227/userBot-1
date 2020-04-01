@@ -15,7 +15,7 @@ For any query or want to know how it works join
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/neerajregmi10/userBot
+git clone https://github.com/japarmar/GujjuBot
 cd userBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
